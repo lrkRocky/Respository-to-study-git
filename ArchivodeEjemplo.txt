@@ -1,5 +1,6 @@
 Este texto es de ejemplo
 
 para mi clase de platzi
+ahora este archivo es con la linea que supuestamente pude haber olvidado, tons pa' que se vea un cambio.
 
 sobre git
