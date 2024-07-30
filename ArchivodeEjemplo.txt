@@ -1,9 +1,7 @@
 Este texto es de ejemplo
-modificando el archivo
 
 para mi clase de platzi
 ahora este archivo es con la linea que supuestamente pude haber olvidado, tons pa' que se vea un cambio.
+mañana nos enfocamos en la vida laboral
 
 sobre git
-
-ejemplo para cambio de archivo
